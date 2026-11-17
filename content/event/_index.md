@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 近期成果与获奖
 
 # Listing view
 view: compact
