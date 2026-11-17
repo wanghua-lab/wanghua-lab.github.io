@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        汪骅课题组
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        &emsp;&emsp;本课题组依托于，长期致力于微流控技术的应用与转化及分子POCT研究，开发面向临床、家庭、海关、农业的快速、床旁核酸检测新方法与新平台。
   
   - block: collection
     content:
