@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 新闻资讯
       subtitle:
       text:
       count: 5
@@ -57,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 近期发表
       text: ""
       count: 5
       filters:
